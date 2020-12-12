@@ -1,8 +1,14 @@
 {
-    "name": "trainandpredict/zttp",
+    "name": "kitetail/zttp",
     "description": "A developer-experience focused HTTP client, optimized for most common use cases.",
     "keywords": ["http", "guzzle"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Wathan",
+            "email": "adam.wathan@gmail.com"
+        }
+    ],
     "require": {
         "php": ">=7.0",
         "guzzlehttp/guzzle": "^7.0",
